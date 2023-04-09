@@ -50,4 +50,4 @@ git push --all origin
 
 24.Се префрлив на гранката master со 'git checkout master'.
 
-25.Ги синхронизирав сите гранки кон master:'git push --all'.
+25.Ги синхронизирав сите гранки кон master:'git push --all'.ECHO is on.
