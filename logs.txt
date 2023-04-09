@@ -1,0 +1,45 @@
+C:\Users\Acer\OneDrive\Desktop\SI_2023_lab1_213023>git log
+commit 8efa189e27709488a3249112de470dc93d48bb6d (HEAD -> master, origin/master, bug3)
+Merge: 8824983 79acd2c
+Author: Borjana Doncheva <borjana.doncheva@students.finki.ukim.mk>
+Date:   Mon Mar 27 16:53:46 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 8824983ea846e57391bc3bcb66e8bc41bbf38169
+Merge: a7c8ee3 56bcc31
+Author: Borjana Doncheva <borjana.doncheva@students.finki.ukim.mk>
+Date:   Mon Mar 27 16:53:39 2023 +0200
+
+    Merge branch 'bug1'
+
+commit a7c8ee3037d5487dcdff1bce397933ee3bbf90d5
+Author: Borjana Doncheva <borjana.doncheva@students.finki.ukim.mk>
+Date:   Mon Mar 27 16:32:11 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 79acd2c5eb1eaa485ed53c6ffbf8a390568983fd (origin/bug2, bug2)
+Author: Borjana Doncheva <borjana.doncheva@students.finki.ukim.mk>
+Date:   Mon Mar 27 16:30:26 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 56bcc31614ac948aff026b56797088171668aacc (origin/bug1, bug1)
+Author: Borjana Doncheva <borjana.doncheva@students.finki.ukim.mk>
+Date:   Mon Mar 27 16:28:47 2023 +0200
+
+    Fix wrong loop for reading
+
+commit c31e1d2278eef5369f7920159941ba0ec646fbfe
+Author: Borjana Doncheva <borjana.doncheva@students.finki.ukim.mk>
+Date:   Mon Mar 27 16:24:16 2023 +0200
+
+    Add java class
+
+commit efc9e1657f25c4a6868c8918559feb7c8b0d4e9e
+Author: Borjana Doncheva <borjana.doncheva@students.finki.ukim.mk>
+Date:   Mon Mar 27 16:23:09 2023 +0200
+
+    Initial commit
+(END)
